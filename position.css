@@ -1,0 +1,24 @@
+.grayRec{
+    background-color: darkgrey;
+    position: absolute;
+    margin:10% 25%;
+    height:50%;
+    width:50%;
+}
+.leftCir{
+    background-color: gold;
+    position:absolute;
+    border-radius: 0 0 100% 0;
+    height:33%;
+    width:15%;
+}
+.rightCir{
+    background-color: gold;
+    display:inline-block;
+    position:absolute;
+    right:0;
+    bottom:0;
+    border-radius: 100% 0 0 0;
+    height:33%;
+    width:15%;
+}
